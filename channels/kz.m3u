@@ -51,3 +51,5 @@ http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
 https://sc.id-tv.kz/Khabar_24_38_39.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kazakh" tvg-logo="" group-title="",Халык Арна
 https://sc.id-tv.kz/HalykArna_38_39.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kazakh" tvg-logo="" group-title="",Gakku
+https://sc.id-tv.kz:443/Gakku.m3u8
